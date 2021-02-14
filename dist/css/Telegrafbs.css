@@ -1,0 +1,1916 @@
+img
+{
+ 
+
+    margin-right:40px;
+ 
+
+}
+.navbar
+{
+    width:100%;
+    height:60px;
+    background-color:white;
+    z-index: 1000;
+}
+.container
+{
+    
+}
+
+
+ul {
+    list-style-type: none;
+
+
+}
+ul li{
+
+    margin:0;
+    margin-right:18px;
+    padding:0;
+
+
+
+}
+
+ul li a{
+
+    text-decoration: none;
+    color: #19191A;
+    font-size: 14.5px;
+    font-weight:600;
+
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin:0;
+    padding:0;
+
+}
+ul li a:hover{
+
+    border-bottom: 1.5px solid black;
+
+}
+
+
+.paddingnula
+{
+    padding-left: 0;
+    padding-right:0;
+ 
+}
+
+
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    height:50px;
+    display: block;
+    text-align: center;
+    position:relative;
+    left:-1%;
+}
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+    margin:0;
+    margin-right:4px;
+}
+.navbar-bar .navbar-brand
+{
+    margin-left:40px;
+}
+
+.navbar-brand
+    {
+        float:none;
+        margin:0 auto;
+        display: block;
+
+
+    }
+
+
+.sliciceheaderdva{
+
+    width:25px;
+    margin:0;
+    padding:0;
+    
+
+
+}
+.container-fluid
+{
+    padding-top:60px;
+    background-color: #EDF1F2;
+}
+.sliciceheaderdva img{
+
+    width:100%;
+    margin:0;
+    padding:0;
+
+
+}
+.logo{
+
+    position:relative;
+
+    bottom:3%;
+    
+
+}
+
+.logoskriveni{
+
+    position:absolute;
+    left:0%;
+    bottom:3%;
+    display:none;
+    
+    
+}
+.sliciceheaderdvaskriven{
+
+    width:30px;
+    margin:0;
+    padding:0;
+    display:none;
+    max-width:40px;
+    background-color:red;
+
+}
+
+.sliciceheaderdvaskriven img{
+
+    width:100%;
+    margin:0;
+    padding:0;
+
+}
+.sliciceheaderdvaskrivendva{
+
+    width:30px;
+    margin:0;
+    padding:0;
+    display:none;
+    max-width:40px;
+    background-color:yellow;
+
+}
+.sliciceheaderdvaskrivendva img{
+
+    width:100%;
+    margin:0;
+    padding:0;
+
+}
+.sliciceheaderdvaskriventri{
+
+    width:30px;
+    margin:0;
+    padding:0;
+    display:none;
+    max-width:40px;
+    
+
+}
+.sliciceheaderdvaskriventri img{
+
+    width:100%;
+    margin:0;
+    padding:0;
+
+}
+.logo1
+{
+    display:none;
+}
+.druginavbar
+{
+    height:50px;
+    width:100%;
+    margin-bottom: 0px;
+    text-align:center;
+}
+.druginavbar ul {
+    list-style-type: none;
+ 
+    margin-right:40px;
+    
+}
+.druginavbar  ul li{
+    display:inline-block;
+    margin:0;
+    margin-right:20px;
+    padding:0;
+    margin-top: 8px;
+   
+   
+}
+
+.druginavbar  ul li a{
+  
+    text-decoration: none;
+    color: #19191A !important;
+    font-size: 13.5px;
+    font-weight:600;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin:0;
+    padding:0;
+   
+}
+.druginavbar  ul li a:hover{
+  
+    border-bottom: 1.5px solid black;
+   
+}
+.divvesti1
+{
+    
+    color: #0C0C0D;
+    font-size:28px;
+    font-weight: 700;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 0.5px;
+  
+}
+.levamargina
+{
+    margin-left:10px;
+}
+.levamargina2
+{
+    margin-left:25px;
+}
+.divslika
+{
+    position:relative;
+}
+.divslika img
+{
+    width:100%;
+    height:420px;
+}
+#licrvena:hover
+{
+    border-bottom: red 1.5px solid ;
+}
+#tekstglavnaslikavesti
+{
+    position:absolute;
+    font-size: 26px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    left:45px;
+    bottom:30px;
+    color:white;
+    letter-spacing:0.5px;
+}
+.vestislikavelika
+{
+    position: absolute;
+    bottom: 0;
+    left:0;
+    height:6%;
+    width:12%;
+    background-color:#e42828;
+}
+#textslikamali{
+    margin-top:2px;
+    text-align:center;
+    color:white;
+    font-size:11px;
+    font-weight:700;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#textslikamali1{
+    margin-top:2px;
+    text-align:center;
+    color:white;
+    font-size:11px;
+    font-weight:700;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.dolemargina
+{
+    margin-bottom: 15px;
+}
+.dolemargina30
+{
+    margin-bottom:30px;
+}
+.divslikasrednja
+{
+    position:relative;
+    width:100%;
+    height:210px;
+    background-color:rgb(85, 26, 139);
+   
+}
+.divslikasrednja img
+{
+    width:100%;
+    height:210px;
+}
+    .vestislikasrednji
+    {
+        position: absolute;
+        bottom: 0;
+        left:4%;
+        height:10%;
+        width:20%;
+        background-color:#e42828;
+    }
+.vestislikasrednji:hover
+{
+    background-color:#C21819;
+}
+.divtekstslikavise
+{
+    margin-top:15px;
+    width:100%;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font:15px;
+    font-weight: 700;  
+    
+}
+.divtekstslikavise:hover
+{
+    color: #949495;
+}
+.divslikavestivise
+{
+    position:relative;
+    width:100%;
+    
+    height:175px;
+    background-color:rgb(85, 26, 139);
+
+    
+}
+.divslikavestivise img
+{
+    width:100%;
+    height:175px;
+}
+.divslikavestivise5
+{
+    position:relative;
+    width:100%;
+    
+    height:175px;
+    background-color:rgb(85, 26, 139);
+
+    
+}
+.divslikavestivise5 img
+{
+    width:100%;
+    height:175px;
+    transition: transform .2s;
+}
+
+.divslikavestivise5 img:hover
+{
+    transform: scale(1.3);
+}
+.divslikavestivise3
+{
+    position:relative;
+    width:100%;
+    
+    height:175px;
+    background-color:rgb(85, 26, 139);
+
+    
+}
+.divslikavestivise3 img
+{
+    width:100%;
+    height:175px;
+}
+.vestistislikamali
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height:12%;
+    width:20%;
+    background-color: #e42828;
+}
+.vestistislikamali1
+{
+    position: absolute;
+    bottom: 0;
+    left: 6%;
+    height:12%;
+    width:20%;
+    background-color: #e42828;
+}
+
+.najnovijenajcitanijesamoslika
+{
+  
+    text-align:center;
+    
+}
+.najnovijenajcitanijesamoslika .fa-stopwatch
+{
+  
+  font-size:22px;
+  color:#E42828;
+}
+.najnovijenajcitanijesamoslika .fa-star
+{
+  
+  font-size:22px;
+  color:#B4BAC1;
+}
+.najnovijenajcitanijesamoslika .fa-comment-alt
+{
+  margin-top:1px;
+  font-size:22px;
+  color:#B4BAC1;
+}
+.najnovijenajcitanijesamotekst
+{
+    text-align:center;
+    font-weight: 700;
+    color: black;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:17px;
+}
+.najnovijenajcitanijesamotekst1
+{
+    text-align:center;
+    font-weight: 700;
+    color: #B4BAC1;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:17px;
+}
+.krajlevogkontejnera
+{
+    
+    width:100%;
+   
+    text-align: center;
+
+}
+.krajlevogkontejnera button
+{
+    background-color:white;
+    color:black;
+    height:46px;
+    font-size: 13px;
+    width:100%;
+    font-weight: 700;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: black solid 2px;
+
+}
+.krajlevogkontejnera button:hover
+{
+    background-color:#0C0C0D;
+    color: white;
+    transition-duration: 0.4s;
+}
+.video
+{
+    width:100%;
+    background-color:#0C0C0D;
+    height:492px;
+}
+.videonaslov
+{
+    width:100%;
+    
+    height: 70px;
+}
+.videonaslov1
+{
+    width: 20%;
+    height:100px;
+    
+    
+}
+#naslovvideo
+{
+    
+    position:relative;
+    text-align:center;
+    font-size: 28px;
+    font-weight: 700;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+    top:30%;
+    font-stretch: 200%;
+}
+.divslikavideo
+{
+    width:100%;
+    height:149px;
+    background-color:rgb(85, 26, 139);
+
+    
+}
+.divslikavideo img
+{
+    width:100%;
+    height:100%;
+}
+.slikavideo
+{
+    display: inline-block;
+    margin-top:30px;
+    width:33.5%;
+    margin-left:28.7px;
+    
+}
+.poluslikavideo
+{
+    display:inline-block;
+    margin-top:30px;
+    width: 20%;
+    margin-left:28.7px;
+}
+.poluslikavideo img
+{
+    width:100%;
+    height: 149px;
+}
+.slikavideo img
+{
+    width:100%;
+    height: 149px;
+}
+.videotekst{
+  
+    display:table;
+    margin-top:15px;
+    height:100px;
+    width:100%;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font:15px;
+    font-weight: 700;
+    color:white; 
+}
+
+.divdugme
+{
+    
+    width:100%;
+    height: 46px;
+    text-align: center;
+    
+    
+}
+.divdugme button
+{
+    
+    height:46px;
+
+    background-color:#0C0C0D;
+    color: white;
+    font-size: 13px;
+    font-weight: 700;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: white solid 2px;
+}
+.divdugme button:hover
+{
+  background-color:white;
+  color:black;
+  transition-duration: 0.4s;
+}
+.scrolldugme
+{
+    width:100%;
+    height: 40px;
+    
+}
+.negativnamargina
+{
+    margin-top:-300px;
+}
+.negativnamargina2
+{
+    margin-top: -1350px;
+}
+.negativnamargina3
+{
+    margin-top:-1100px;
+}
+.negativnamargina4
+{
+    margin-top:-1100px;
+}
+.negativnamargina5
+{
+    margin-top:-400px;
+}
+.scrolldugme button{
+    
+    height: 50px;
+    text-align:center;
+    width: 50%;
+    background-color: rgb(48,48,51);
+    border:rgb(48,48,51);
+    font-size: 16px;
+    font-weight: 700;
+    color:white;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.scrolldugme button:hover{
+    background-color: #262628;
+}
+.preparminuta
+{
+ 
+    text-align:center;
+  
+}
+#preparminutamali
+{
+    margin-top:2px;
+    color: #E94A4B;
+    font-size:9px;
+    font-weight:700;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-bottom:0px;
+    
+}
+#preparminutamali1
+{
+    color: #E94A4B;
+    font-size:9px;
+    font-weight:700;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-bottom:0px;
+    margin-top:0px;
+    
+}
+#preparminutaveliki
+{
+    color: #E94A4B;
+    font-size:20px;
+    font-weight:700;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+.najnovijiteksttekst
+{   
+    
+    
+    font-size:15px;
+    font-weight:700;
+    color:black;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+.komentarishare1{
+   
+    height:20px;
+    width: 100%;
+    
+    margin-left: 50%;
+    
+    color: #B4BAC1;
+  
+    
+    
+}
+.komentarishare1 img
+{
+    margin:0;
+}
+.komentarishare2{
+   
+    margin-top:10px;
+    height:20px;
+    width: 100%;
+    
+  
+    
+    color: #B4BAC1;
+  
+    
+    
+}
+.komentarishare2 img
+{
+    margin:0;
+}
+.komentarishare5{
+   
+    margin-top:0px;
+    height:20px;
+    width: 100%;
+    font-size:20px;
+    color: #B4BAC1;
+  
+    
+    
+}
+.komentarishare5 img
+{
+    margin:0;
+}
+#komentarishare2{
+   
+    margin-top:10px;
+    height:20px;
+    width: 100%;
+    
+  
+    
+    color: #B4BAC1;
+     
+}
+#komentarishare2 img
+{
+    margin:0;
+}
+
+.fa-share-alt
+{
+    color:#B4BAC1;
+    position:relative;
+}
+.desnisidebar
+{
+
+    text-align:center;
+    margin-top:30px;
+ 
+}
+.desnisidebar .dugme button
+{
+    
+    background-color:white;
+    color:black;
+    height:43px;
+    width:100%;
+
+    font-size: 13px;
+    font-weight: 700;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: black solid 2px;
+    letter-spacing: 0.5px;
+    
+}
+.desnisidebar button:hover
+{
+    background-color:#0C0C0D;
+    color: white;
+    transition-duration: 0.4s;
+}
+.desnisidebar1
+{
+
+    text-align:center;
+    margin-top:30px;
+    width:100%;
+ 
+}
+.desnisidebar1 .evri
+{
+    
+    
+    background-color:#EDF1F2;
+    color:black;
+    height:43px;
+    width:100%;
+}
+.evridesno
+{
+    float:right;
+    width:50%;
+    text-align:left;
+}
+.evrilevo
+{
+    float:left;
+    width:50%;
+    text-align:right;
+}
+
+#evri
+{
+    margin-top:10px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight:800;
+    display:inline-block;
+}
+#evriiznos
+{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight:600;
+    display:inline-block;
+    margin-right:10px;
+}
+.prognoza{
+    height:150px;
+    margin-bottom: 0px;
+    width:100%;
+    display:table;
+}
+.prognozastrelice
+{
+    width:10%;
+    height:150px;
+    float:left;
+    text-align:center;
+}
+#prognozastrelice
+{
+    position:relative;
+    margin-top:0;
+    top:42%;
+    font-size: 17px;
+    font-weight: bold;
+    color:black;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.prognozastepeni
+{
+    width:40%;
+    height:150px;
+    
+    float:left;
+}
+#prognozastepeni
+{
+    left:40px;
+    top:40px;
+    display:inline-block;
+    margin-top:0;
+    margin-bottom:0;
+    color:black;
+    text-align:center;
+    position:relative;
+    font-size: 32px;
+    font-weight:700;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#prognozastepeni1
+{
+
+    display:inline-block;
+    margin-top:0;
+    margin-bottom:0px;
+    top:32px;
+    left:40px;
+    color:black;
+    text-align:center;
+    position:relative;
+    font-size: 20px;
+    font-weight:600;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#prognozastepeni2
+{
+    top:32px;
+    left:5px;
+    margin-top:0;
+    margin-bottom:0;
+    color:black;
+    text-align:center;
+    position:relative;
+    font-size: 17px;
+    letter-spacing:0.5px;
+    font-weight:600;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.prognozavreme
+{
+    width: 40%;
+    height:150px;
+   
+    float:left;
+    text-align:center;
+}
+.fa-cloud
+{
+    margin-top:27%;
+    font-size:60px;
+}
+.vestinaslovsidebar
+{
+   
+    width:100%;
+    height:35px;
+    color:black;
+    font-size: 23px;
+    font-weight: 700;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.velikaslikasidebar
+{
+    
+    width:100%;
+    position: relative;
+
+}
+.velikaslikasidebar img
+{
+    width:100%;
+    height: 200px;
+}
+.fudbalvelikevesti
+{
+        position: absolute;
+        bottom: 0;
+        left: 4%;
+        height:11%;
+        width:20%;
+        background-color: #27D050;
+}
+.Karijeravelikevesti
+{
+    position: absolute;
+    bottom: 0;
+    left: 4%;
+    height:11%;
+    width:20%;
+        background-color: #3CBAEE;
+}
+.Karijeravelikevesti:hover
+{
+        background-color:#14A7E3;
+}
+.Modavelikevesti
+{
+    position: absolute;
+    bottom: 0;
+    left: 4%;
+    height:11%;
+    width:20%;
+        background-color: #F7A324;
+}
+.Modavelikevesti:hover
+{
+        background-color:#E08A08;
+}
+.Muzikavelikevesti
+{
+    position: absolute;
+    bottom: 0;
+    left: 4%;
+    height:11%;
+    width:20%;
+        background-color: #9144C4;
+}
+.Muzikavelikevesti:hover
+{
+        background-color:#7633A2;
+} 
+.divtekstsidebar
+{
+ 
+    margin-top:15px;
+    
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:17px;
+    font-weight: 700;   
+}
+.sidebarslikamala
+{
+  
+    
+    text-align:center;
+    width:100%;
+  
+ 
+}
+.sidebarslikamala img
+{
+    width:100%;
+    height:85px;
+}
+.sidebarslikamalatekst
+{   
+   
+    
+    font-size:14px;
+    font-weight:700;
+    color:black;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+.footer{
+  
+    clear:both;
+    width:100%;
+    background-color:#0C0C0D;
+    height:250px;
+
+}
+.footer1{
+  
+    clear:both;
+    width:100%;
+    background-color:#0C0C0D;
+    height:270px;
+    display:none;
+
+}
+.footer2{
+  
+    clear:both;
+    width:100%;
+    background-color:#0C0C0D;
+    height:320px;
+    display:none;
+
+}
+.containerfooter{
+
+    width:63%;
+    background-color: #0C0C0D;
+    
+    margin: 0 auto;
+   
+    margin-bottom:0px;
+    
+}
+.prazandiv
+{
+    width:100%;
+    height:20px;
+}
+#tekst1footer
+{
+    border-left: 3px solid #E5282A;
+    padding-left: 10px;
+    font-size:14px;
+    font-weight:500;
+    color:white;
+    margin-left:50px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   
+    
+}
+#tekst1footer1
+{
+    
+    
+    font-size:14px;
+    font-weight:500;
+    color:white;
+    
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   
+    
+}
+#tekst1footer:hover
+{
+    text-decoration-line: underline;
+}
+.divfooter
+{   
+    float:left;
+    width:17%;
+    height: 200px;
+    
+   
+}
+.divfooterdesni
+{
+    float:right;
+  
+    width: 35%;
+    height:200px;
+    position:relative;
+}
+.divfooterdesnodole
+{
+
+    width:100%;
+
+    height:50px;
+   
+}
+.divfooterdesnodolesveslike
+{
+    float:right;
+    width: 50%;
+
+    margin-right:40px;
+}
+.divfooterdesnodoleslike
+{
+    float:right;
+    width:20%;
+    height:50px;
+  
+    margin-right:5px;
+}
+.divfooterdesnodoleslike1
+{
+    
+    width:100%;
+    height:50px;
+  
+    
+}
+.divfooterdesnodoleslike1 img
+{
+    
+    width:60%;
+    height:35px;
+  
+    
+}
+.divfooterdesnodoleslike2
+{
+    
+    width:100%;
+    height:50px;
+  
+    
+}
+.divfooterdesnodoleslike2 img
+{
+    
+    width:30px;
+    height:35px;
+    margin-left:-10px;
+  
+    
+}
+.divfooterdesnigore
+{
+    height:150px;
+    width:100%;
+
+}
+.divfooterdesnigoreslika
+{
+    margin-top:10px;
+    height:55px;
+    width:45.5%;
+ 
+    display:inline-block;
+}
+.divfooterdesnigoreslika1
+{
+    
+    height:100%;
+    width:90%;
+}
+.divfooterdesnigoreslika1 img{
+    width:88%;
+    height:100%;
+}
+.divfooterdesnigoreslika2
+{
+    
+    height:100%;
+    width:100%;
+}
+.divfooterdesnigoreslika2 img{
+    margin-left:-16px;
+    width:100px;
+    height:100%;
+}
+.divfooterdesnigoreslika img{
+    position:relative;
+    left:0px;
+}
+
+.divfoterdole1
+{
+    border-top:0.2px grey solid;
+    margin-top:0px;
+    clear:both;
+    background-color:#0C0C0D;
+    width:100%;
+    height:50px;
+}
+
+.containerfooter1  .navbarfooter ul {
+  
+    list-style-type: none;
+   
+
+    
+}
+.containerfooter1 .navbarfooter ul li{
+    float:left;
+    margin:0;
+    padding:0;
+   
+   
+}
+
+.containerfooter1 .navbarfooter ul li a{
+  
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-weight:700;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin:0;
+    padding:11px;
+   
+}
+.containerfooter1 .navbarfooter ul li a:hover{
+  
+    text-decoration-line: underline;
+   
+}
+.navbarfooter
+{
+    margin-top:15px;
+    width:50%;
+    float:left;
+}
+.divfoterdole12
+{
+    border-top:0.2px grey solid;
+    margin-top:0px;
+    clear:both;
+    background-color:#0C0C0D;
+    width:100%;
+    height:100px;
+    display:none;
+}
+.divfoterdole123
+{
+    border-top:0.2px grey solid;
+    margin-top:0px;
+    clear:both;
+    background-color:#0C0C0D;
+    width:100%;
+    height:100px;
+    display:none;
+}
+
+.divfoterdole12  .navbarfooter1 ul {
+  
+    list-style-type: none;
+   
+
+    
+}
+.divfoterdole12 .navbarfooter1 ul li{
+    float:left;
+    margin:0;
+    padding:0;
+   
+   
+}
+
+.divfoterdole12 .navbarfooter1 ul li a{
+  
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    font-weight:700;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin:0;
+    padding:2px;
+   
+}
+.divfoterdole12 .navbarfooter1 ul li a:hover{
+  
+    text-decoration-line: underline;
+   
+}
+.navbarfooter1
+{
+    margin-top:15px;
+    width:100%;
+    float:left;
+}
+.divfoterdole123  .navbarfooter2 ul {
+  
+    list-style-type: none;
+   
+
+    
+}
+.divfoterdole123 .navbarfooter2 ul li{
+    float:left;
+    margin:0;
+    padding:0;
+   
+   
+}
+
+.divfoterdole123 .navbarfooter2 ul li a{
+  
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    font-weight:700;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin:0;
+    padding:2px;
+   
+}
+.divfoterdole123 .navbarfooter2 ul li a:hover{
+  
+    text-decoration-line: underline;
+   
+}
+.navbarfooter2
+{
+    margin-top:15px;
+    width:100%;
+    float:left;
+}
+#telegraf
+{
+    font-size:15px;
+    font-weight:bold;
+    display:inline-block;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-right:10px;
+    
+    color:white;
+}
+#telegraf1
+{
+    font-size:12px;
+    font-weight:bold;
+    display:inline-block;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-right:10px;
+    
+    color:white;
+}
+#telegraf2
+{
+    font-size:10px;
+    font-weight:bold;
+    display:inline-block;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-right:10px;
+    margin-left:-40px;
+    color:white;
+}
+#prava
+{
+    font-size: 13px;
+    font-weight: 400;
+    display:inline-block;
+    margin-right:50px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+}
+#prava1
+{
+    font-size: 9px;
+    font-weight: 400;
+    display:inline-block;
+    
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+}
+#prava2
+{
+    font-size: 11px;
+    font-weight: 400;
+    display:inline-block;
+    
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+}
+.tekstfooterdesno
+{
+    float:right;
+}
+.tekstdolefooter
+{
+    margin-top:15px;
+    float:right;
+    
+}
+.containerfooter1{
+
+    width:63%;
+    background-color: #0C0C0D;
+    margin: 0 auto;
+    margin-top:5px; 
+}
+.divfoterdole2
+{ 
+    margin-top:0px;
+    background-color:#0C0C0D;
+    width:100%;
+    height:50px;
+}
+
+
+@media only screen and (max-width: 1400px)
+{
+    .logo1
+    {
+        display:inline-block;
+        position: relative;
+      
+    }
+    .logo
+    {
+        display:none;
+        
+    }
+    .najnovijenajcitanijesamotekst
+    {
+        font-size:14.5px;
+    }
+    .najnovijenajcitanijesamotekst1
+    {
+        font-size:14.5px;
+    }
+   
+    .navbar-nav > li {
+        display: inline-block;
+        float:none;
+        margin:0;
+        margin-right:-4px;
+        position: relative;
+        bottom:10px;
+    }
+    .druginavbar  ul li
+    {
+        margin-right:10px;
+    }
+    .divslika img
+{
+    width:100%;
+    height:100%;
+}
+}
+
+@media only screen and (max-width: 991.98px) {
+    .navbar-brand
+    {
+        position: absolute;
+        left:14%;
+
+    }
+    .footer1{
+  
+     
+        display:block;
+    
+    }
+    .desnisidebar1
+    {
+        display:none;
+    }
+    .prognoza
+    {
+        display:none;
+    }
+    .vestinaslovsidebar
+{
+   
+    margin-top:30px;
+    font-size: 31.4px;
+  
+}
+.divfoterdole12
+{
+    display: block;
+}
+.footer
+{
+    display:none;
+}
+.divfoterdole1
+{
+    display:none;
+}
+.negativnamargina
+{
+    margin-top:0px;
+}
+.negativnamargina2
+{
+    margin-top:0px;
+}
+.negativnamargina5
+{
+    margin-top:0px;
+}
+.divslikavestivise
+{
+    
+    width:100%;
+    
+    height:150px;
+   
+
+        
+}
+.vestistislikamali
+{
+    
+    bottom:0;
+    left: 0;
+    height:14%;
+    width:20%;
+ 
+}
+.vestistislikamali #textslikamali{
+    
+    font-size:12px;
+
+}
+.divslikavestivise img
+{
+    width:100%;
+    height:100%;
+}
+
+.velikaslikasidebar img
+{
+    width:100%;
+    height: 100%;
+}
+.vestislikasrednji
+{
+    position: absolute;
+    bottom: 0;
+    left:4%;
+    height:10%;
+    width:17%;
+    background-color:#e42828;
+}
+
+.sidebarslikamala img
+{
+    width:100%;
+    height: 230px;
+}
+.divtekstsidebar
+{
+ 
+    font-size:27px;
+  
+}
+.sidebarslikamalatekst
+{   
+   
+    
+    font-size:22px;
+  
+    
+}
+.fudbalvelikevesti
+{
+       
+       
+        left: 2.1%;
+        height:7%;
+        width:10%;
+      
+}
+.Karijeravelikevesti
+{
+    left: 2.1%;
+    height:7%;
+    width:10%;
+}
+.Modavelikevesti
+{
+    left: 2.1%;
+    height:7%;
+    width:10%;
+}
+.Muzikavelikevesti
+{
+    left: 2.1%;
+    height:7%;
+    width:10%;
+}
+#tekstglavnaslikavesti
+{
+    font-size: 22px;
+}
+    .levamargina
+    {
+        margin-left:0px;
+    }
+    .container
+    {
+        max-width: 100%;
+    }
+    .druginavbar
+    {
+        display:none;
+    }
+    .container-fluid
+    {
+        background-color: white;
+    }
+    .najnovijenajcitanijesamotekst
+    {
+        font-size:24.5px;
+    }
+    .najnovijenajcitanijesamotekst1
+    {
+        font-size:24.5px;
+    }
+    .vestislikavelika
+    {
+       
+        height:7%;
+        width:20%;
+       
+    }
+    #textslikamali{
+       
+        font-size:14px;
+   
+    }
+    #textslikamali1{
+       
+        font-size:12px;
+   
+    }
+    .najnovijiteksttekst
+{   
+    
+  
+    font-size:17px;
+    text-align:left;
+  
+    
+}
+.preparminuta
+{
+ 
+    text-align:left;
+  
+}
+.najnovijenajcitanijesamoslika
+{
+   margin-top:15px;
+   margin-bottom:10px;
+}
+
+    
+    .sliciceheaderdvaskriven{
+
+
+            display:inline-block;
+            right:5px;
+            position:absolute;
+            bottom:10px;
+            max-width:40px;
+        
+
+    }
+    .sliciceheaderdvaskriven img{
+
+            position: relative;
+        
+            right:0;
+            margin:0 auto;
+            max-width:40px;
+        
+
+    }
+    .sliciceheaderdvaskrivendva{
+
+
+        display:inline-block;
+        right:40px;
+        position:absolute;
+        bottom:10px;
+        max-width:40px;
+    
+
+}
+.sliciceheaderdvaskrivendva img{
+
+        position: relative;
+    
+        right:0;
+        margin:0 auto;
+        max-width:40px;
+    
+
+}
+.sliciceheaderdvaskriventri{
+
+
+    display:inline-block;
+    right:75px;
+    position:absolute;
+    bottom:10px;
+    max-width:40px;
+
+
+}
+.sliciceheaderdvaskriventri img{
+
+    position: relative;
+
+    right:0;
+    margin:0 auto;
+    max-width:40px;
+
+
+}
+  .logoskriveni{
+    position:absolute;
+    left:0px;
+    display:block;
+    bottom:10px;
+  }
+
+}
+@media only screen and (max-width: 575.98px) {
+    .preparminuta
+{
+ 
+    text-align:left;
+  
+}
+.footer1{
+  
+     
+    display:none;
+
+}
+.divfoterdole12
+{
+    display: none;
+}
+.divfoterdole123
+{
+    display: block;
+}
+.footer2
+{
+    display:block;
+}
+.najnovijenajcitanijesamotekst
+{
+    font-size:17.2px;
+}
+.najnovijenajcitanijesamotekst1
+{
+    font-size:17.2px;
+}
+.vestinaslovsidebar
+{
+   
+    margin-top:30px;
+    font-size: 25px;
+  
+}
+.videotekst{
+  
+   
+    font-size:13px;
+ 
+}
+.divslikavideo
+{
+    width:100%;
+    height:120px;
+    
+
+    
+}
+.divtekstslikavise
+{
+
+    font-size:14px;
+
+   
+}
+
+.scrolldugme
+{
+    width:100%;
+    height: 40px;
+    margin-top:30px;
+    
+}
+.vestislikavelika
+{
+   
+    height:12%;
+
+   
+}
+.divslikavestivise
+{
+    
+    width:100%;
+    
+    height:130px;
+    margin-bottom:20px;
+   
+
+    
+}
+.vestistislikamali
+{
+    
+    bottom:0;
+    left: 1%;
+    height:15%;
+    width:26%;
+ 
+}
+.vestistislikamali #textslikamali{
+    
+    font-size:11px;
+
+}
+.divslikavestivise img
+{
+    width:100%;
+    height:100%;
+}
+.vestislikasrednji
+{
+   
+    left:7%;
+    height:10%;
+    width:30%;
+ 
+}
+.divslikavestivise3
+{
+    position:relative;
+    width:100%;
+    
+    height:250px;
+    background-color:rgb(85, 26, 139);
+
+    
+}
+.divslikavestivise3 img
+{
+    width:100%;
+    height:250px;
+}
+#textslikamali1{
+       
+    font-size:12px;
+
+}
+.fudbalvelikevesti
+{
+       
+       bottom:0%;
+        left: 3.4%;
+        height:10%;
+        width:15%;
+      
+}
+.Karijeravelikevesti
+{
+    bottom:0%;
+    left: 3.4%;
+    height:10%;
+    width:15%;
+}
+.Modavelikevesti
+{
+    bottom:0%;
+    left: 3.4%;
+    height:10%;
+    width:15%;
+}
+.Muzikavelikevesti
+{
+    bottom:0%;
+    left: 3.4%;
+    height:10%;
+    width:15%;
+}
+.divtekstsidebar
+{
+ 
+    font-size:23px;
+  
+}
+.sidebarslikamala img
+{
+    width:100%;
+    height: 150px;
+}
+.sidebarslikamalatekst
+{   
+   
+    
+    font-size:17px;
+  
+    
+}
+}

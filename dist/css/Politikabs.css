@@ -1,0 +1,94 @@
+
+
+.sportdolelevo
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height:12%;
+    width:25%;
+    background-color: #e42828;
+}
+.sportdolelevovelikaslika
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height:6%;
+    width:11%;
+    background-color: #e42828;
+}
+.sportdolelevosrednjaslika
+{
+    position: absolute;
+    bottom: 0;
+    left:4%;
+    height:10%;
+    width:20%;
+    background-color: #e42828;
+}
+@media only screen and (max-width: 991.98px) {
+
+    .sportdolelevovelikaslika
+    {
+       
+        height:7%;
+        width:20%;
+       
+    }
+    .sportdolelevosrednjaslika
+{
+    position: absolute;
+    bottom: 0;
+    left:4%;
+    height:10%;
+    width:17%;
+   
+}
+.sportdolelevo
+{
+    
+    bottom:0;
+    left: 0;
+    height:14%;
+    width:20%;
+ 
+}
+.sportdolelevo #textslikamali{
+    
+    font-size:12px;
+
+}
+}
+@media only screen and (max-width: 575.98px) {
+    .sportdolelevovelikaslika
+{
+   
+    height:12%;
+
+   
+}
+.sportdolelevosrednjaslika
+{
+   
+    left:7%;
+    height:10%;
+    width:30%;
+ 
+}
+.sportdolelevo
+{
+    
+    bottom:0;
+    left: 1%;
+    height:15%;
+    width:26%;
+ 
+}
+.sportdolelevo #textslikamali{
+    
+    font-size:11px;
+
+}
+}
+

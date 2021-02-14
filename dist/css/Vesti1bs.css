@@ -1,0 +1,87 @@
+#putanja
+{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   
+    font-size: 13px;
+    font-weight: 600;
+    color: #CFD3D8;
+    
+}
+#putanja a
+{
+    text-decoration:none;
+    color: #CFD3D8;
+}
+#putanja a:hover
+{
+    text-decoration:underline;
+}
+.prvinaslov
+{
+ 
+    color: #0C0C0D;
+    font-size:26px;
+    font-weight: 700;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 0.5px;
+
+}
+.podnaslov
+{
+    font-size: 19px;
+    font-style:italic;
+    font-weight: 600;
+    color: #0C0C0D;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+#slikaispodslike
+{
+
+    font-size:13px;
+    font-weight: 600;
+    color:#B4BAC1;
+    margin-bottom:0px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-bottom:30px;
+}
+#pasusi
+{
+    font-weight: 500;
+    font-size:15px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing:0.2px;
+}
+#zavas0
+{
+    font-weight: 600;
+    
+    font-size:15px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-bottom:20px;
+    letter-spacing:0.2px;
+    color:#636061;
+}
+#zavas
+{
+    border-left: 3px solid #E5282A;
+    padding-left: 10px;
+    font-size:15px;
+    font-weight:700;
+  
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;  
+}
+#teme1
+{
+    background-color: #EDF1F2;
+    font-size:14px;
+    margin-right:26px;
+    display:inline-block;
+    padding:4px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:600;
+}
+#teme1:hover
+{
+    text-decoration-line: underline;
+}
